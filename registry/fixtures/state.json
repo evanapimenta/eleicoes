@@ -1,0 +1,218 @@
+[
+    {
+        "model": "registry.state",
+        "pk": 1,
+        "fields": {
+            "name": "Acre",
+            "abbreviation": "AC"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 2,
+        "fields": {
+            "name": "Alagoas",
+            "abbreviation": "AL"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 3,
+        "fields": {
+            "name": "Amapá",
+            "abbreviation": "AP"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 4,
+        "fields": {
+            "name": "Amazonas",
+            "abbreviation": "AM"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 5,
+        "fields": {
+            "name": "Bahia",
+            "abbreviation": "BA"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 6,
+        "fields": {
+            "name": "Ceará",
+            "abbreviation": "CE"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 7,
+        "fields": {
+            "name": "Distrito Federal",
+            "abbreviation": "DF"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 8,
+        "fields": {
+            "name": "Espírito Santo",
+            "abbreviation": "ES"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 9,
+        "fields": {
+            "name": "Goiás",
+            "abbreviation": "GO"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 10,
+        "fields": {
+            "name": "Maranhão",
+            "abbreviation": "MA"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 11,
+        "fields": {
+            "name": "Mato Grosso",
+            "abbreviation": "MT"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 12,
+        "fields": {
+            "name": "Mato Grosso do Sul",
+            "abbreviation": "MS"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 13,
+        "fields": {
+            "name": "Minas Gerais",
+            "abbreviation": "MG"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 14,
+        "fields": {
+            "name": "Pará",
+            "abbreviation": "PA"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 15,
+        "fields": {
+            "name": "Paraíba",
+            "abbreviation": "PB"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 16,
+        "fields": {
+            "name": "Paraná",
+            "abbreviation": "PR"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 17,
+        "fields": {
+            "name": "Pernambuco",
+            "abbreviation": "PE"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 18,
+        "fields": {
+            "name": "Piauí",
+            "abbreviation": "PI"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 19,
+        "fields": {
+            "name": "Rio de Janeiro",
+            "abbreviation": "RJ"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 20,
+        "fields": {
+            "name": "Rio Grande do Norte",
+            "abbreviation": "RN"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 21,
+        "fields": {
+            "name": "Rio Grande do Sul",
+            "abbreviation": "RS"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 22,
+        "fields": {
+            "name": "Rondônia",
+            "abbreviation": "RO"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 23,
+        "fields": {
+            "name": "Roraima",
+            "abbreviation": "RR"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 24,
+        "fields": {
+            "name": "Santa Catarina",
+            "abbreviation": "SC"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 25,
+        "fields": {
+            "name": "São Paulo",
+            "abbreviation": "SP"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 26,
+        "fields": {
+            "name": "Sergipe",
+            "abbreviation": "SE"
+        }
+    },
+    {
+        "model": "registry.state",
+        "pk": 27,
+        "fields": {
+            "name": "Tocantins",
+            "abbreviation": "TO"
+        }
+    }
+]
