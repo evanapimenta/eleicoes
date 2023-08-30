@@ -7,7 +7,7 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-  web1:
+  web:
     build: .
     container_name: a_si_1
     command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py populate_db && python manage.py runserver 0.0.0.0:8000"

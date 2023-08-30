@@ -3,7 +3,6 @@ from django.shortcuts import reverse
 from django.utils.translation import gettext as _
 
 
-##
 class State(models.Model):
     name = models.CharField(
         null=False, blank=False, max_length=250, verbose_name="Estado"
