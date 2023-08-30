@@ -21,10 +21,13 @@ jobs:
         run: docker-compose build
 
       - name: Start services
-        run: docker-compose up -d
+        run: docker-compose up
 
       - name: Run makemigrations
         run: docker-compose exec web python manage.py makemigrations
 
       - name: Run migrate
         run: docker-compose exec web python manage.py migrate
+
+      - name: Shutdown application
+        run: docker-compose down
