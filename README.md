@@ -14,7 +14,7 @@
 
 ### Utilizando a aplicação
 
-Após instalar o Docker e o Docker-compose, abar um terminal e execute:
+Após instalar o Docker e o Docker-compose, abra um terminal e execute:
 
 ```sh
 sudo docker-compose up
